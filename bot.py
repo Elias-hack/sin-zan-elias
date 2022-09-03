@@ -33,7 +33,7 @@ x = """⠀
     ヽ    つ０
      し―Ｊ"""
 
-bot = Rubika  ("cvjhfnpgpghdxjvwzcftutpsjnxrtwqz")
+bot = Rubika  ("گریه کن")
 channel_guid : str = ("c0Ee9X09008b057804dadf8f941e305a")
 
 post_link: str = ("https://rubika.ir/Elias_hacker/CHGDGFFEHCEHFBE")
